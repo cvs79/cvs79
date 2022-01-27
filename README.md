@@ -2,23 +2,20 @@
 
 Here is a little something about me.
 
-```bash
-
 Passionate about Cloud, DevOps, and emerging technologies ⚡️
 
 Currently working as an Cloud Architect at Xpirit
 
-Skills
+## :hammer_and_wrench: Languages and Tools :
 
-Azure
-Bicep
-Terraform
-Azure Identity
-.NET
-Powershell
-...
-
-```
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt="dotnetcore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## 📫 How to reach me
 
