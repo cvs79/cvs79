@@ -8,13 +8,14 @@ Passionate about Cloud, DevOps, and emerging technologies ⚡️
 
 Currently working as an Cloud Architect at Xpirit
 
-skills
+Skills
 
 Azure
 Bicep
 Terraform
 Azure Identity
-powershell
+.NET
+Powershell
 ...
 
 ```
@@ -23,9 +24,7 @@ powershell
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cvs79/)](https://www.linkedin.com/in/cvs79/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/cvs79)](https://github.com/cvs79)
-[![Twitter](https://img.shields.io/twitter/follow/cvsluijsveld?style=social)](https://twitter.com/CvSluijsveld)
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/CvSluijsveld)](https://twitter.com/CvSluijsveld)
 
 
 <!--
