@@ -4,7 +4,7 @@ Here is a little something about me.
 
 Passionate about Cloud, DevOps, and emerging technologies ⚡️
 
-Currently working as an Cloud Architect at Xpirit
+Currently working as an Cloud Architect at Xebia
 
 ## :hammer_and_wrench: Languages and Tools :
 
